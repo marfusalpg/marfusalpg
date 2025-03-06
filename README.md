@@ -5,7 +5,7 @@
 # Skills and Experience:
  ### ▷ 💻C# <br>
  - Beginner<br>
-### ▷ 🏳️Figma, Framer <br>
+### ▷ 🏳️HTML, CSS <br>
 - Beginner<br>
 ### ▷ ⚒️Blender<br>
 - Advanced <br>
