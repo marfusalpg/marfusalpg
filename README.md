@@ -1,10 +1,13 @@
 <!-- About me Section -->
 # 👻 About Me:
 <br>I am a beginner programmer learning C#, aspiring to become either an Ethical Hacker or a Developer. I enjoy exploring new technologies, solving problems, and creating my own projects. My hobbies include photography, 3D design in Blender, and programming. I am constantly striving to improve and expand my knowledge in the IT world. 🚀<br><br>
+![](https://yt3.googleusercontent.com/ZJ6CpfI_l3dP56pn1PzzBd0FdocotEFz-bB-piJegWu7MCVfYFVkx3bASbPNNY6hHy7a2tXzPQ=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)
 
 <!-- Socials Section -->
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Fushin_bum) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCEWsfQN8jmKF9IJ2Y63z-YA) 
+
+
 
 <!-- Tech -->
 #  Tech Stack:
