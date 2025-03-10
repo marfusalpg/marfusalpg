@@ -15,7 +15,7 @@
 - Intermediate <br>
 
 # Connect with me:
-### ▷ Instagram: ![Fushin_bum](https://www.instagram.com/fushin_bum/)<br>
+### ▷ Instagram: [Fushin_bum](https://www.instagram.com/fushin_bum/)<br>
 ### ▷ Email: voltner.martin@gmail.com
 
 ![github-snake](https://github.com/user-attachments/assets/e55ec626-8162-4cbc-9f38-4b97e59e1a86)<br>
