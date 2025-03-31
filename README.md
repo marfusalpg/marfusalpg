@@ -6,7 +6,7 @@
  ### ▷ 💻C# <br>
  - Beginner<br>
 ### ▷ 🏳️HTML, CSS <br>
-- Beginner<br>
+- Intermediate<br>
 ### ▷ ⚒️Blender<br>
 - Advanced <br>
 ### ▷ 💯Adobe Photoshop<br>
