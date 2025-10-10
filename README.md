@@ -5,6 +5,8 @@
 # Skills and Experience:
  ### ▷ 💻C# <br>
  - Beginner<br>
+ ### ▷ 💻C <br>
+ - Beginner<br> 
 ### ▷ 🏳️HTML, CSS <br>
 - Intermediate<br>
 ### ▷ ⚒️Blender<br>
